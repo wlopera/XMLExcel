@@ -1,0 +1,36 @@
+<tables>
+  <tabla1 nombre="Tabla2">
+    <campo>
+      <nombre>Banesco</nombre>
+      <tipo>Banco</tipo>
+      <valor>100</valor>
+    </campo>
+    <campo>
+      <nombre>Banplus</nombre>
+      <tipo>Cuenta</tipo>
+      <valor>200</valor>
+    </campo>
+    <campo>
+      <nombre>Mercantil</nombre>
+      <tipo>Ahorro</tipo>
+      <valor>300</valor>
+    </campo>
+  </tabla1>
+  <tabla2 nombre="Tabla2">
+    <campo>
+      <nombre>Banesco</nombre>
+      <tipo>Banco</tipo>
+      <valor>100</valor>
+    </campo>
+    <campo>
+      <nombre>Banplus</nombre>
+      <tipo>Cuenta</tipo>
+      <valor>200</valor>
+    </campo>
+    <campo>
+      <nombre>Mercantil</nombre>
+      <tipo>Ahorro</tipo>
+      <valor>300</valor>
+    </campo>
+  </tabla2>
+</tables>
